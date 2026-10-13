@@ -136,16 +136,29 @@ Sales has the highest average modeled exposure per employee among the larger dep
 
 ## Visualizations
 
-The analysis includes:
+### Current Workforce Age Distribution
 
-- Current workforce age distribution
-- Projected exposure by age cohort
-- Total exposure by department
-- Average exposure by department
-- Salary-growth sensitivity
-- Retirement-age sensitivity
+![Current Workforce Age Distribution](current%20workforce%20age%20distribution.png)
 
----
+### Projected Retirement Benefit Exposure by Age Group
+
+![Projected Retirement Benefit Exposure by Age Group](Projected%20Retirement%20Benefit%20Exposure%20by%20Age%20group.png)
+
+### Projected Retirement Benefit Exposure by Department
+
+![Projected Retirement Benefit Exposure by Department](Projected%20Retirement%20Benefit%20Exposure%20by%20Dept%20.png)
+
+### Average Projected Retirement Benefit by Department
+
+![Average Projected Retirement Benefit by Department](Average%20Projected%20Retirement%20Benefit%20by%20Department%20.png)
+
+### Salary Growth Sensitivity
+
+![Retirement Benefit Exposure under Salary Growth Scenarios](Retirement%20Benefit%20Exposure%20under%20Salary%20Growth%20Scenarios.png)
+
+### Retirement Age Sensitivity
+
+![Retirement Benefit Exposure under Retirement Age Scenarios](Retirement%20Benefit%20Exposure%20under%20retirement%20age%20scenarios.png)
 
 ## Key Analytical Takeaways
 
